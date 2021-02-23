@@ -1,0 +1,7 @@
+.character {
+    width: 62px;
+    height: 62px;
+    background-image: url(sprite.png);
+    background-position-x: 0px;
+    background-position-y: 0px;
+}
